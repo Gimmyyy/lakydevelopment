@@ -43,7 +43,7 @@ Nessun framework, nessun bundler. Zero dipendenze npm.
 ---
 
 ## Struttura
-
+```
 lakyDevelopment/
 ├── index.html          # Tutta l'app in un unico file
 ├── assets/
@@ -52,7 +52,7 @@ lakyDevelopment/
 │   └── projects/       # Screenshot progetti
 ├── CNAME
 └── README.md
-
+```
 ---
 
 ## Pagine
