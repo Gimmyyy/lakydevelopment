@@ -3,6 +3,8 @@
 Portfolio personale e vetrina dei servizi di **Laky Development**.  
 Web Developer & WebApp Creator — *Insert coin to start your project.*
 
+![Preview](./assets/preview.png)
+
 ## Demo
 
 [lakydevelopment.com](https://lakydevelopment.com)
@@ -48,6 +50,8 @@ lakyDevelopment/
 │   ├── logo.png
 │   ├── og-image.png
 │   └── projects/       # Screenshot progetti
+├── CNAME
+└── README.md
 
 ---
 
@@ -76,11 +80,3 @@ python -m http.server 8080
 
 # Con Node.js
 npx serve .
-
-
----
-
-**Consiglio:** se vuoi aggiungere uno screenshot della pagina nel README, salva un'immagine in `assets/preview.png` e aggiungi questa riga subito dopo il titolo:
-
-```markdown
-![Preview](./assets/preview.png)
